@@ -1,4 +1,4 @@
-# Digital_Twins_in_Healthcare_Courses
+# Digital_Twins_in_Healthcare
 
 First, Click the star above for this GitHub repository! :)
 
